@@ -90,6 +90,7 @@ Implement updates and enhancements.
 Fix bugs and security vulnerabilities.
 
 Agile vs. Waterfall Models:
+
 Answer:
 Approach
 Waterfall: Sequential and linear.
