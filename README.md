@@ -35,6 +35,7 @@ Software Engineering: Emphasizes thorough documentation and rigorous quality ass
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 Answer:
 he software development cycle, also known as the Software Development Life Cycle (SDLC), is a structured process that outlines the stages involved in the development of a software product. Here are the typical phases of the SDLC:
 
