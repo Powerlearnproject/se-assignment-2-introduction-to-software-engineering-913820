@@ -6,10 +6,13 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering: is the sytematic applications of engineering principle to mantain and develop software systems.
+Define Software Engineering: 
+Answer:
+is the sytematic applications of engineering principle to mantain and develop software systems.
 
 What is software engineering, and how does it differ from traditional programming?    
 Answer: 
+
 Scope and Scale:
 Traditional Programming: Focused on small-scale projects or individual programs.
 Software Engineering: Deals with large-scale systems, requiring extensive planning and management.
