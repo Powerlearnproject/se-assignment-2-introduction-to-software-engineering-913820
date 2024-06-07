@@ -11,7 +11,7 @@ Define Software Engineering:
 Answer:
 is the sytematic applications of engineering principle to mantain and develop software systems.
 
-What is software engineering, and how does it differ from traditional programming?    
+What is software engineering, and how does it differ from traditional programming?   
 Answer: 
 
 Scope and Scale:
