@@ -169,6 +169,7 @@ Importance of Requirements Engineering
 Software Design Principles are guidelines that help developers create systems that are robust, maintainable, and scalable. These principles ensure that software is well-structured and can be easily understood, modified, and extended. 
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Answer:
 Modularity refers to the design principle of breaking down a software system into separate, self-contained units or modules, each of which encapsulates a specific piece of functionality. These modules interact with each other through well-defined interfaces, but they are designed to be independently developed, tested, and maintained.
 
