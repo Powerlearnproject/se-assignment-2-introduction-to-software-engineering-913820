@@ -128,13 +128,13 @@ Phase-Specific: Requirements engineering is primarily a phase at the start of th
 Therefore choosing between Agile and Waterfall depends on the nature of the project, the clarity of requirements, stakeholder involvement, and the importance of flexibility versus predictability. Agile is suited for dynamic environments where adaptability and continuous improvement are key, while Waterfall is ideal for projects with well-defined requirements and a need for a structured, predictable process.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
 Answer:
 
 Requirements engineering is a systematic process in software and systems engineering that involves defining, documenting, and maintaining the requirements for a system.
 Requirements engineering is an essential phase in the software development lifecycle (SDLC), ensuring that the final product meets the needs of stakeholders and operates effectively within its intended environment. The process consists of several key activities:
 
 Requirements Elicitation:
-
 Objective: Collect requirements from all stakeholders (users, customers, developers, etc.).
 Importance: Ensures that all necessary functions and constraints of the system are identified early. It helps in understanding the user's needs and the context in which the system will operate.
 Methods: Interviews, surveys, focus groups, observation, workshops, brainstorming sessions, and analyzing existing systems.
